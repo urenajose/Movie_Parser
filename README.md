@@ -1,8 +1,10 @@
+# Movie Parser
+
 ![movie_parser.py]
 
 [movie_parser.py]: images/movie_parser.py.gif
 
-# Movie Parser
+
 ## Python 3 script that takes a list of movies from the movielens dataset and 
 1. Reads in the file named movies.csv
     > Each row contains 3 fields: movieId, title, and genres
@@ -15,12 +17,12 @@
 8. Prints out First 10 Movies listed in dataset
 9. Prints out Last 10 Movies listed in dataset
 
+## Installation
 
 ![git clone] clone repo
 
 [git clone]: images/gitclone1.gif
 
-## Installation
 1. Open windows powershell, cmd or linux terminal
     > ensure python path is in system environment variable
 2. Clone repo to your local computer
